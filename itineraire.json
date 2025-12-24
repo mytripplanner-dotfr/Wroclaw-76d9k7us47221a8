@@ -1,0 +1,151 @@
+{
+  "pays": "Pologne",
+  "drapeau": "🇵🇱",
+  "symbole": "🏰",
+  "titre": "Wroclaw: Escapade Relaxante au Cœur de la Silésie",
+  "budget_total": "739 €",
+  "duree": "3 jours",
+  "temps_vol": "1h50 (depuis Paris, france)",
+  "escale": "0",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et Premiers Pas Enchantés",
+      "legende": "Après un vol rapide, installez-vous confortablement dans la charmante ville de Wroclaw. La première journée est dédiée à une douce immersion dans son atmosphère unique, en explorant son cœur historique sans précipitation. Laissez-vous séduire par l'architecture colorée et l'ambiance paisible de la Place du Marché.",
+      "lieu": "Wroclaw",
+      "activites": [
+        "<strong>🛬</strong>: Arrivée à l'aéroport de Wroclaw (WRO) et transfert vers le centre-ville. Prévoyez environ 30-40 minutes en taxi ou bus pour rejoindre votre hébergement.",
+        "<strong>🛏️</strong>: Installation à votre hôtel 3* au cœur de la ville, pour un repos bien mérité après le voyage et une base idéale pour explorer.",
+        "<strong>🚶‍♀️</strong>: Balade relaxante sur la Place du Marché (Rynek), l'une des plus grandes d'Europe, pour admirer l'Hôtel de Ville gothique et les maisons bourgeoises colorées.",
+        "<strong>🍽️</strong>: Dîner dans un restaurant traditionnel polonais pour goûter aux spécialités locales comme les pierogi ou le bigos, dans une ambiance chaleureuse."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "Transport aéroport",
+          "texte": "Le bus 106 relie l'aéroport au centre-ville en environ 40 minutes pour quelques zlotys. Les taxis et VTC sont également disponibles pour plus de confort."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🌳",
+      "titre": "Charme Insulaire et Sérénité Verte",
+      "legende": "Cette journée vous invite à découvrir les multiples îles de Wroclaw, ses ponts pittoresques et ses espaces verts apaisants. Une parenthèse de calme et de beauté naturelle au cœur de la ville, ponctuée par des visites culturelles et une perspective unique sur l'Oder. Idéal pour une exploration douce et enrichissante.",
+      "lieu": "Wroclaw",
+      "activites": [
+        "<strong>⛪</strong>: Visite de l'île de la Cathédrale (Ostrów Tumski), le plus ancien quartier de Wroclaw, avec sa majestueuse Cathédrale Saint-Jean-Baptiste et ses rues pavées.",
+        "<strong>🌸</strong>: Promenade dans le Jardin Botanique de l'Université de Wroclaw, un havre de paix idéal pour se ressourcer parmi une flore variée et des serres exotiques.",
+        "<strong>🛶</strong>: Croisière relaxante sur l'Oder (si la météo le permet), offrant une perspective unique sur la ville, ses ponts et ses rives verdoyantes, loin de l'agitation urbaine."
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Astuce du soir",
+          "texte": "Le soir, les lampadaires d'Ostrów Tumski sont allumés à la main par un lampiste en cape, créant une ambiance magique et hors du temps, à ne pas manquer."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🏛️",
+      "titre": "Art, Bien-être et Doux Adieux",
+      "legende": "Avant de quitter Wroclaw, plongez dans son riche passé culturel et offrez-vous un moment de pure détente. Une dernière occasion de savourer l'ambiance unique de cette ville polonaise, entre découvertes artistiques et relaxation, avant de reprendre le chemin du retour, la tête pleine de souvenirs.",
+      "lieu": "Wroclaw",
+      "activites": [
+        "<strong>🎨</strong>: Visite du Panorama de Racławice, une immense peinture circulaire représentant la bataille de Racławice, une expérience immersive unique et impressionnante.",
+        "<strong>🧖‍♀️</strong>: Détente aux thermes de Wroclaw (Wrocławskie Termy), pour un moment de relaxation dans les piscines et saunas, idéal pour se ressourcer avant le départ.",
+        "<strong>🛍️</strong>: Derniers achats de souvenirs ou flânerie dans les rues animées du centre-ville pour profiter une dernière fois de l'atmosphère locale.",
+        "<strong>✈️</strong>: Départ de l'aéroport de Wroclaw (WRO) pour Paris, la tête remplie de beaux souvenirs de cette escapade polonaise."
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "🎁",
+          "titre": "Souvenirs emblématiques",
+          "texte": "Les nains de Wroclaw sont des symboles emblématiques de la ville. Cherchez-les partout dans les rues et ramenez-en un en souvenir de votre voyage!"
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    {
+      "titre": "Budget vol:",
+      "legende": "A partir de 259 €/pers (A/R)",
+      "symbole": "🛬"
+    },
+    {
+      "titre": "Budget transports:",
+      "legende": "20 €/pers (bus, tram)",
+      "symbole": "🚆"
+    },
+    {
+      "titre": "Budget repas:",
+      "legende": "180 €/pers (3 jours, 3* moyen)",
+      "symbole": "🥗"
+    },
+    {
+      "titre": "Budget logement:",
+      "legende": "210 €/pers (3 nuits, hôtel 3*)",
+      "symbole": "🛏️"
+    },
+    {
+      "titre": "Budget activités:",
+      "legende": "70 €/pers (musées, croisière, thermes)",
+      "symbole": "🎭"
+    }
+  ],
+  "periodes_ideales": [
+    {
+      "titre": "Mai à Septembre",
+      "symbole": "☀️"
+    }
+  ],
+  "infos_pratiques": [
+    {
+      "titre": "La monnaie est le Zloty polonais (PLN). 1€ équivaut à environ 4.3 PLN. Les cartes bancaires sont largement acceptées dans les commerces et restaurants.",
+      "symbole": "💳"
+    },
+    {
+      "titre": "Wroclaw est une ville très agréable à explorer à pied. Le réseau de tramways et bus est efficace et économique pour les plus longues distances.",
+      "symbole": "🚶‍♀️"
+    },
+    {
+      "titre": "Les températures en mai varient généralement entre 10 et 20°C. Prévoyez des couches de vêtements et un parapluie pour faire face aux variations climatiques.",
+      "symbole": "☔"
+    },
+    {
+      "titre": "La langue officielle est le polonais, mais l'anglais est souvent parlé dans les zones touristiques, les hôtels et les restaurants. Quelques mots de polonais seront appréciés.",
+      "symbole": "🗣️"
+    }
+  ],
+  "liens_utiles": [
+    {
+      "legende": "Vols",
+      "titre": "Réserve ton vol",
+      "url": "https://www.kayak.fr/flights/CDG-WRO/2026-05-14/2026-05-17",
+      "symbole": "🛬"
+    },
+    {
+      "legende": "Infos officielles et inspirations",
+      "titre": "Tourisme Wroclaw",
+      "url": "https://visitwroclaw.eu/fr",
+      "symbole": "📘"
+    },
+    {
+      "legende": "Horaires des transports",
+      "titre": "Transports en commun Wroclaw",
+      "url": "https://www.wroclaw.pl/en/public-transport",
+      "symbole": "🚆"
+    },
+    {
+      "legende": "Météo",
+      "titre": "Météo Pologne",
+      "url": "https://www.meteo.pl/en/",
+      "symbole": "🌤️"
+    }
+  ]
+}
